@@ -10,15 +10,15 @@
   "dependencies": {
     "@uiw/react-codemirror": "^4.23.13",
     "rc-progress": "^4.0.0",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
     "sql.js": "^1.13.0"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.5.2",
     "autoprefixer": "^10.4.14",
-    "postcss": "^8.4.21",
-    "tailwindcss": "^3.3.2",
-    "vite": "^5.0.0"
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.10",
+    "vite": "^6.3.5"
   }
 }
